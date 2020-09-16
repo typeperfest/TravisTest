@@ -1,0 +1,8 @@
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/install/strip.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/install.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/list_install_components.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/rebuild_cache.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/edit_cache.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/install/local.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/example1.dir
+/home/perfest/playground/cmakeplayground/_build/CMakeFiles/arithmetics.dir

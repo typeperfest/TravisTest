@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/arithmetics.hpp
+
+/home/perfest/playground/cmakeplayground/examples/example1.cpp
+arithmetics.hpp
+-
+iostream
+-
+

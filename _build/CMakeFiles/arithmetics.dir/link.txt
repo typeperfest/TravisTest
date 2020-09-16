@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarithmetics.a CMakeFiles/arithmetics.dir/sources/arithmetics.cpp.o
+/usr/bin/ranlib libarithmetics.a
