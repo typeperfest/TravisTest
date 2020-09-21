@@ -1,5 +1,4 @@
 # TravisTest
-[![Build Status](https://travis-ci.org/typeperfest/TravisTest.svg?branch=master)](https://travis-ci.org/typeperfest/TravisTest)
-
+[![Build Status](https://travis-ci.com/typeperfest/TravisTest.svg?branch=master)](https://travis-ci.com/typeperfest/TravisTest)
 mb
 commit
