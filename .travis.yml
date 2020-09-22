@@ -8,5 +8,5 @@ addons:
       - cmake
       - cmake-data
 script:
-  - cmake -H. -B_build -DCMAKE_INSTALL_PREFIX=_install
-  - cmake --build _build --target install
+  - cmake -H. -B_build
+  - cmake --build _build
