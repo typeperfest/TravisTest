@@ -1,2 +1,0 @@
-/home/perfest/playground/cmakeplayground/_install/bin/example1
-/home/perfest/playground/cmakeplayground/_install/lib/libarithmetics.a
